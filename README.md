@@ -1,4 +1,4 @@
-# Avaliacao-Intermediaria-1---Parte-Pratica
+# Avaliacao-Intermediaria-1
 # 🎬 Virarei lobisomem e agora?
 
 Este projeto se baseia na criação de um **storyboard** e uma **animação** utilizando o software **Alice**.  
