@@ -49,8 +49,7 @@ Além disso, a história também promove valores positivos como:
 
 A documentação detalhada do projeto está organizada na **Wiki** deste repositório, com os seguintes tópicos:
 
-- [Home](https://github.com/teterichard/Projeto-da-Rede-Mais-Social/wiki)
-- [1. Planejamento da implementação](https://github.com/teterichard/Projeto-da-Rede-Mais-Social/wiki/1.-Descri%C3%A7%C3%A3o-do-projeto-e-cen%C3%A1rios)
-- [2. Storyboard](https://github.com/teterichard/Projeto-da-Rede-Mais-Social/wiki/2.-Sequ%C3%AAncia-de-Telas--%E2%80%90-Cen%C3%A1rio-1)
-- [3. Videos](https://github.com/teterichard/Projeto-da-Rede-Mais-Social/wiki/3.-Sequ%C3%AAncia-de-Telas-%E2%80%90-Cen%C3%A1rio-2)
-- [4. Codigo](https://github.com/teterichard/Projeto-da-Rede-Mais-Social/wiki/4.-Diagrama-UML)
+- [Home](https://github.com/teterichard/Avaliacao-Intermediaria-1---Parte-Pratica/wiki)
+- [1. Planejamento da implementação](https://github.com/teterichard/Avaliacao-Intermediaria-1---Parte-Pratica/wiki/1.-Planejamento-da-Implementa%C3%A7%C3%A3o-da-Anima%C3%A7%C3%A3o)
+- [2. Storyboard](https://github.com/teterichard/Avaliacao-Intermediaria-1---Parte-Pratica/wiki/2.-Storyboard)
+- [3. Videos](https://github.com/teterichard/Avaliacao-Intermediaria-1---Parte-Pratica/wiki/3.-Videos)
